@@ -1,0 +1,7 @@
+@startuml
+class Application
+class Calculator
+
+Application o-> Calculator
+
+@enduml
